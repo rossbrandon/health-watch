@@ -1,5 +1,5 @@
-<a href="https://travis-ci.com/rosstafarian/health-watch-api"><img src="https://img.shields.io/travis/rosstafarian/health-watch-api/master.svg?style=for-the-badge" alt="Build Status"></a>
-<a href="https://codecov.io/gh/rosstafarian/health-watch-api"><img src="https://img.shields.io/codecov/c/github/rosstafarian/health-watch-api/master.svg?style=for-the-badge" alt="codecov"></a>
+<a href="https://travis-ci.com/rosstafarian/health-watch"><img src="https://img.shields.io/travis/rosstafarian/health-watch/master.svg?style=for-the-badge" alt="Build Status"></a>
+<a href="https://codecov.io/gh/rosstafarian/health-watch"><img src="https://img.shields.io/codecov/c/github/rosstafarian/health-watch/master.svg?style=for-the-badge" alt="codecov"></a>
 
 # Health Watch
 
