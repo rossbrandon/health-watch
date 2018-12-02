@@ -5,8 +5,7 @@
 
 This is the backend for Health Watch. 
 
-It is designed to parse and manage data imported from health monitoring applications such as [AutoSleep]
-(http://autosleep.tantsissa.com/)
+It is designed to parse and manage data imported from health monitoring applications such as [AutoSleep](http://autosleep.tantsissa.com/)
 
 ## Built on:
 
@@ -21,10 +20,7 @@ It is designed to parse and manage data imported from health monitoring applicat
 1. Install PHP >= 7.1 `brew install php`
 2. Install [Composer](https://getcomposer.org/) `brew install composer`
 3. Install local web server and database
-    * [Valet](https://laravel.com/docs/5.7/valet) or [Valet Plus for Mac](https://github
-    .com/weprovide/valet-plus#installation)
-are recommended for local hosting/development
-
+    * [Valet](https://laravel.com/docs/5.7/valet) or [Valet Plus for Mac](https://github.com/weprovide/valet-plus#installation) are recommended for local hosting/development
 4. Run the following commands in the project's directory:
 
 ```bash
