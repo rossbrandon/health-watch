@@ -9,10 +9,12 @@ before_script:
   - cp .env.travis .env
   - mysql -e 'create database healthwatch_test;'
   - travis_retry composer self-update
-  - travis_retry composer install --no-interaction --prefer-source --dev
+  - travis_retry composer install --no-interaction --prefer-source
   - php artisan key:generate
-  - php artisan migrate
+  - php artisan migrate:fresh
   - php artisan storage:link
+  - php artisan voyager:install
+  - php artisan db:seed
 
 services:
   - mysql
