@@ -1,3 +1,4 @@
+<a href="https://travis-ci.com/rosstafarian/health-watch"><img src="https://travis-ci.com/rosstafarian/health-watch.svg?branch=master" alt="Build Status">
 <a href="https://travis-ci.com/rosstafarian/health-watch"><img src="https://img.shields.io/travis/rosstafarian/health-watch/master.svg?style=for-the-badge" alt="Build Status"></a>
 <a href="https://codecov.io/gh/rosstafarian/health-watch"><img src="https://img.shields.io/codecov/c/github/rosstafarian/health-watch/master.svg?style=for-the-badge" alt="codecov"></a>
 
